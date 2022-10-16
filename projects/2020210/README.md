@@ -7,7 +7,7 @@
 | Εβδομάδα | Παραδοτέο | Σύνδεσμος στην [εβδομαδιαία παρουσίαση προόδου στις συζητήσεις](https://github.com/courses-ionio/help/discussions/categories/show-and-tell) | Αυτοαξιολόγηση σύμφωνα με τα κριτήρια της αντίστοιχης άσκησης |
 | --- | --- | --- | --- |
 | 1 | [Εισαγωγή](https://github.com/PanteleonGiannis/hci/blob/2020210/projects/2020210/README.md#%CE%B5%CE%B9%CF%83%CE%B1%CE%B3%CF%89%CE%B3%CE%AE) |(https://github.com/courses-ionio/help/discussions/1013) | Δεν αντιμετώπισα κάποιο ιδιαίτερο πρόβλημα, όποια απορία είχα λύθηκε γρήγορα. |
-| 2 | [Άσκηση γραμμής εντολών (linux install)](https://github.com/PanteleonGiannis/hci/blob/2020210/projects/2020210/README.md#%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-linux-install) | | |
+| 2 | [Άσκηση γραμμής εντολών (linux install)](https://github.com/PanteleonGiannis/hci/blob/2020210/projects/2020210/README.md#%CE%AC%CF%83%CE%BA%CE%B7%CF%83%CE%B7-%CE%B3%CF%81%CE%B1%CE%BC%CE%BC%CE%AE%CF%82-%CE%B5%CE%BD%CF%84%CE%BF%CE%BB%CF%8E%CE%BD-linux-install) |(https://github.com/courses-ionio/help/discussions/1123#discussion-4478297) | |
 | 3 | Συμμετοχικό περιεχόμενο A1 | | |
 | 4 | Άσκηση γραμμής εντολών (warm up cli) | | |
 | 5 | Συμμετοχικό περιεχόμενο A2 | | |
